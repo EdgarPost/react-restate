@@ -1,5 +1,5 @@
 {
-	"name": "stengah",
+	"name": "react-stengah",
 	"version": "1.0.1",
 	"description": "Stengah state management for React",
 	"main": "./dist/main.js",
